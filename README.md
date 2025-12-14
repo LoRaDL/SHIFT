@@ -1,4 +1,4 @@
-# CRL视频分析 + VLM上下文构建
+# 视频分析 + VLM上下文构建
 
 ## 快速开始
 
@@ -36,7 +36,7 @@ python vlm_workflow_example.py
 ## VLM使用 (LMStudio)
 
 支持两种方式：
-1. **自动API调用**: LMStudio服务器运行时自动分析
+1. **自动API调用**: LMStudio服务器运行时自动分析,尚不完善
 2. **手动上传**: 导出图片和提示词到LMStudio界面
 
 ### LMStudio设置
